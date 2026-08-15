@@ -4,11 +4,28 @@ A curated list of agent skills that can be installed for [Pi](https://github.com
 
 ## Skills
 
-| Skill | Repository |
-| --- | --- |
-| gh-axi | [kunchenguid/gh-axi](https://github.com/kunchenguid/gh-axi) |
-| Anthropic Skills | [anthropics/skills](https://github.com/anthropics/skills) |
-| Vercel Labs Skills | [vercel-labs/skills](https://github.com/vercel-labs/skills) |
-| Matt Pocock Skills | [mattpocock/skills](https://github.com/mattpocock/skills) |
+### gh-axi
+
+```text
+https://github.com/kunchenguid/gh-axi
+```
+
+### Anthropic Skills
+
+```text
+https://github.com/anthropics/skills
+```
+
+### Vercel Labs Skills
+
+```text
+https://github.com/vercel-labs/skills
+```
+
+### Matt Pocock Skills
+
+```text
+https://github.com/mattpocock/skills
+```
 
 Follow the installation instructions in each linked repository to use a skill collection.
