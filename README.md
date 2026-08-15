@@ -4,28 +4,68 @@ A curated list of agent skills that can be installed for [Pi](https://github.com
 
 ## Skills
 
-### gh-axi
+1. **gh-axi**
 
-```text
-https://github.com/kunchenguid/gh-axi
-```
+   ```bash
+   npx skills add https://github.com/kunchenguid/gh-axi --skill gh-axi
+   ```
 
-### Anthropic Skills
+2. **lavish-axi**
 
-```text
-https://github.com/anthropics/skills
-```
+   ```bash
+   npx skills add https://github.com/kunchenguid/lavish-axi --skill lavish-axi
+   ```
 
-### Vercel Labs Skills
+3. **find-skills**
 
-```text
-https://github.com/vercel-labs/skills
-```
+   ```bash
+   npx skills add https://github.com/vercel-labs/skills --skill find-skills
+   ```
 
-### Matt Pocock Skills
+4. **frontend-design**
 
-```text
-https://github.com/mattpocock/skills
-```
+   ```bash
+   npx skills add https://github.com/anthropics/skills --skill frontend-design
+   ```
 
-Follow the installation instructions in each linked repository to use a skill collection.
+5. **vercel-react-best-practices**
+
+   ```bash
+   npx skills add https://github.com/vercel-labs/agent-skills --skill vercel-react-best-practices
+   ```
+
+6. **web-design-guidelines**
+
+   ```bash
+   npx skills add https://github.com/vercel-labs/agent-skills --skill web-design-guidelines
+   ```
+
+7. **remotion-best-practices**
+
+   ```bash
+   npx skills add https://github.com/remotion-dev/skills --skill remotion-best-practices
+   ```
+
+8. **caveman**
+
+   ```bash
+   npx skills add https://github.com/juliusbrussee/caveman --skill caveman
+   ```
+
+9. **ponytail**
+
+   ```bash
+   npx skills add https://github.com/dietrichgebert/ponytail --skill ponytail
+   ```
+
+10. **using-superpowers**
+
+    ```bash
+    npx skills add https://github.com/obra/superpowers --skill using-superpowers
+    ```
+
+11. **Matt Pocock Skills**
+
+    ```bash
+    npx skills@latest add mattpocock/skills
+    ```
