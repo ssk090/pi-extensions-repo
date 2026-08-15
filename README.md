@@ -69,3 +69,9 @@ A curated list of agent skills that can be installed for [Pi](https://github.com
     ```bash
     npx skills@latest add mattpocock/skills
     ```
+
+12. **show-me** (global)
+
+    ```bash
+    npx skills add humanlayer/skills --skill show-me -g -y
+    ```
