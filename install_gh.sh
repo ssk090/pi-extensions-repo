@@ -45,7 +45,7 @@ _install_gh_macos() {
 
 _install_gh_windows() {
   if command -v winget >/dev/null 2>&1; then
-    winget install --id GitHub.cli
+    winget install --id GitHub.cli --silent --accept-package-agreements --accept-source-agreements
   elif command -v choco >/dev/null 2>&1; then
     choco install gh -y
   else
