@@ -7,7 +7,7 @@ install_project_skills() {
   echo ""
   echo "==> Installing skills globally (available in every project/session)"
   for repo in "${PROJECT_SKILLS[@]}"; do
-    echo "    - $repo -g"
-    npx skills add "$repo" -g
+    echo "    - $repo -g -y --all"
+    npx skills add "$repo" -g -y --all
   done
 }
